@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thaeghiori.breakpoint-sass.com/sitemap.xml
